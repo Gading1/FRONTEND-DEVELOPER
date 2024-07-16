@@ -3,7 +3,10 @@ RENCANA PEMBELAJARAN
 - JAVASCRIPT
   - ES 6
   - Framework
+    ^Angular
+    ^React
 - Struktur Dasar Data
 - PHP Framework
+  ^laravel
 - Interview
 - React framework
